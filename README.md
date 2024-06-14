@@ -34,4 +34,4 @@ The simulator should output:
 2 The simulator should be compiled into an executable named sim_cache.
 3 The simulator accepts 8 command-line arguments:
 
-Detailed Information can be obtained from MP1_Instructions.pdf
+Detailed Information can be obtained from [MP1_Instructions.pdf]
